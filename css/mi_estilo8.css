@@ -25,6 +25,13 @@ html,body{
 button{
 
   font-size: 18px;
+  
+}
+
+button:hover{
+
+  cursor: pointer;
+  
 }
 
 
