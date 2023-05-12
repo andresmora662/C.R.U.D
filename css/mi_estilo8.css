@@ -25,6 +25,9 @@ html,body{
 button{
 
   font-size: 18px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
   
 }
 
@@ -33,6 +36,7 @@ button:hover{
   cursor: pointer;
   font-size: 20px;
   transition: .1s;
+  box-shadow: 10px 10px 20px black;
   
 }
 
